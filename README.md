@@ -64,15 +64,15 @@ Tamb�m � possivel fazer um cadastro e depois entrar na conta usando o login.
 
 ## Requisitos N�o Funcionais
 
-**RNF01** - O site deve ser facil de usar.
+**RNF01** - O sistema deve possuir uma interface intuitiva, organizada e responsiva, facilitando a navegação em computadores e dispositivos móveis.
 
-**RNF02** - O sistema deve funcionar corretamente.
+**RNF02** - O sistema deve apresentar tempo de resposta de até 2 segundos para o carregamento das principais páginas, considerando condições normais de uso.
 
-**RNF03** - Os dados dos usu�rios devem ser armazenados com seguran�a.
+**RNF03** - Os dados dos usuários devem ser armazenados com segurança, utilizando autenticação com códigos para login e protegendo informações sensíveis no banco de dados.
 
-**RNF04** - O site deve ter uma interface organizada.
+**RNF04** - O sistema deve estar disponível continuamente, exceto durante períodos de manutenção programada, garantindo alta disponibilidade aos usuários.
 
-**RNF05** - As informa��es devem ficar salvas no banco de dados.
+**RNF05** - Todas as informações de usuários, destinos, hospedagens, passagens, passeios e demais serviços devem ser persistidas em banco de dados relacional, garantindo integridade e consistência dos dados.
 
 ## Usu�rios do Sistema
 
